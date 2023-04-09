@@ -3,9 +3,9 @@ body{
 }
 
 .maincontainer{
-    width: 70%;
+    width: 77%;
     height: 70vh;
-    border: 2px solid red;
+    border: 2px solid transparent;
     margin-left: 13rem;
     margin-top: 7rem;
     border-radius: 20px;
@@ -17,7 +17,7 @@ body{
 .container1{
     display: flex;
     flex-direction: column;
-    border: 3px solid black;
+    /* border: 3px solid black; */
     width: 50%;
 }
 
@@ -34,12 +34,12 @@ body{
 .image3{
     margin-top: -45rem;
     margin-left: -32rem;
-    width: 70%;
+    width: 77%;
     height: 50vh;
 }
 
 .container2{
-    border: 3px solid yellow;
+    /* border: 3px solid yellow; */
     width: 50%;
     margin-left: 5rem;
     margin-top: 3rem;
@@ -50,10 +50,66 @@ body{
     margin-left: 25rem;
 }
 
-.underline{
+.dropdown2{
+    margin-top: -5.5rem;
+    margin-left: 25rem;
+}
+
+.dropdown3{
+    margin-top: -2.2rem;
+    margin-left: 25rem;
+}
+
+.dropdown4{
+    margin-top: -2.2rem;
+    margin-left: 25rem;
+}
+
+.dropdown5{
+    margin-top: -2.2rem;
+    margin-left: 25rem;
+}
+
+.question2{
+    margin-bottom: 1rem;
+}
+
+.underline1{
     border: 1px solid #6b6c72;
     margin-top: 1rem;
+    width: 77%;
+    opacity: 0.2;
 }
+
+.underline2{
+    border: 1px solid #6b6c72;
+    margin-top: 4rem;
+    width: 77%;
+    opacity: 0.2;
+}
+
+.underline3{
+    border: 1px solid #6b6c72;
+    margin-top: 1rem;
+    width: 77%;
+    opacity: 0.2;
+}
+
+.underline4{
+    border: 1px solid #6b6c72;
+    margin-top: 1rem;
+    width: 77%;
+    opacity: 0.2;
+}
+
+.underline5{
+    border: 1px solid #6b6c72;
+    margin-top: 1rem;
+    width: 77%;
+    opacity: 0.2;
+}
+
+
 
 
 
